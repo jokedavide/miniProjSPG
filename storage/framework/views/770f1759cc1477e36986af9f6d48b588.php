@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\ecommerce\resources\views/orders/create.blade.php ENDPATH**/ ?>
